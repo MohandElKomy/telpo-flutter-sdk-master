@@ -53,6 +53,6 @@ dependencies {
     implementation files('src/libs/telpo_api.jar')
     implementation files('src/libs/zkandroidcore.jar')
     implementation files('src/libs/zkandroidnidfpsensor.jar')
-    implementation 'com.github.ChickenHook:RestrictionBypass:2.2'
+    // implementation 'com.github.ChickenHook:RestrictionBypass:2.2'
     implementation 'com.journeyapps:zxing-android-embedded:4.3.0@aar'
 }

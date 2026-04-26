@@ -27,7 +27,7 @@ apply plugin: 'kotlin-android'
 
 android {
     namespace "me.aljan.telpo_flutter_sdk" // Add this line
-    compileSdkVersion 31
+    compileSdkVersion 36
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
